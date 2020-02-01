@@ -1,0 +1,37 @@
+{
+  "name": "backup-codepen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "is-url": "^1.2.4",
+    "is-valid-path": "^0.1.1",
+    "minimist": "^1.2.0",
+    "node-fetch": "^2.6.0",
+    "ora": "^4.0.3",
+    "path-parse": "^1.0.6",
+    "puppeteer": "^2.1.0",
+    "sleep": "^6.1.0",
+    "try-catch": "^2.0.1",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5",
+    "url-parse": "^1.4.7",
+    "wait-then": "^0.1.2",
+    "write": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/is-valid-path": "^0.1.0",
+    "@types/minimist": "^1.2.0",
+    "@types/node": "^13.5.3",
+    "@types/path-parse": "^1.0.19",
+    "@types/puppeteer": "^2.0.0",
+    "@types/url-parse": "^1.4.3",
+    "try-to-catch": "^2.0.1"
+  },
+  "description": ""
+}
