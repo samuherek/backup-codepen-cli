@@ -173,3 +173,4 @@ The _config.json_ file for each pen will look like this:
 ## Possible todo
 
 - [ ] Collect the images for each pen as well
+- [ ] Make a simple online service that would do all the work
