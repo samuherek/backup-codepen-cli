@@ -1,4 +1,4 @@
-function scrapeX() {
+function scrape() {
   const lsData = localStorage.getItem("cp");
   const data = lsData ? JSON.parse(lsData) : [];
 
