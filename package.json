@@ -20,7 +20,7 @@
     "try-catch": "^2.0.1",
     "ts-node": "^8.6.2",
     "typescript": "^3.7.5",
-    "url-parse": "^1.4.7",
+    "url-parse": "^1.5.0",
     "wait-then": "^0.1.2",
     "write": "^2.0.0"
   },
