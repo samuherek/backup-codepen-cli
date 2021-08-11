@@ -14,7 +14,7 @@
     "minimist": "^1.2.0",
     "node-fetch": "^2.6.0",
     "ora": "^4.0.3",
-    "path-parse": "^1.0.6",
+    "path-parse": "^1.0.7",
     "puppeteer": "^2.1.0",
     "sleep": "^6.1.0",
     "try-catch": "^2.0.1",
